@@ -1,0 +1,20 @@
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
+
+# Twitter
+TWITTER_API_KEY         = os.getenv("TWITTER_API_KEY")
+TWITTER_API_SECRET      = os.getenv("TWITTER_API_SECRET")
+TWITTER_ACCESS_TOKEN    = os.getenv("TWITTER_ACCESS_TOKEN")
+TWITTER_ACCESS_SECRET   = os.getenv("TWITTER_ACCESS_SECRET")
+
+# Instagram
+INSTAGRAM_ACCESS_TOKEN  = os.getenv("INSTAGRAM_ACCESS_TOKEN")
+INSTAGRAM_ACCOUNT_ID    = os.getenv("INSTAGRAM_ACCOUNT_ID")
+
+# LinkedIn
+LINKEDIN_ACCESS_TOKEN   = os.getenv("LINKEDIN_ACCESS_TOKEN")
+LINKEDIN_PERSON_ID      = os.getenv("LINKEDIN_PERSON_ID")
