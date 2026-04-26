@@ -2,8 +2,9 @@
 
 Social Media Pro is a premium, AI-driven orchestration platform designed to automate the creation and deployment of social media campaigns across multiple platforms. Built with a modern SaaS aesthetic, it combines powerful LLM agents with image generation to transform simple topics into professional-grade social network presence.
 
+![App Preview](app-preview.png)
 
-![alt text](<Screenshot 2026-04-26 151915.png>)
+
 
 
 ## ✨ Key Features
